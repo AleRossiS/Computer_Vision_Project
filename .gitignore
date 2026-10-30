@@ -1,0 +1,4 @@
+*:Zone.Identifier
+elia_tests/
+yolov8m-pose.pt
+.DS_Store

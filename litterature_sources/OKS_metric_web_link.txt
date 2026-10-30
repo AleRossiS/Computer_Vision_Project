@@ -1,0 +1,3 @@
+This is thr link to the COCO page that shows the OKS evaluation metric:
+
+https://cocodataset.org/#keypoints-eval
