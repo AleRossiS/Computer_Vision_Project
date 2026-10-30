@@ -2,7 +2,9 @@
 
 This repository contains tools, scripts, and notebooks for multi-camera human pose estimation, including camera calibration, image rectification, bundle adjustment, and 3D triangulation. This project was developed as part of a Computer Vision course.
 
-**Project Slide Presentation:** https://docs.google.com/presentation/d/1pU8Kgmj-zw3U1H4DiAGL8ceWuMZa5BOE2ZIvksFFy_Y/edit?usp=sharing
+> Project for the *Computer Vision* course (A.Y. 2025/26), University of Trento.
+> Authors: **Alessandro Rossi**, **Elia Santuari**.
+> 📄 Full report: [`Report_CV_25_26_HPE_Rossi_Santuari.pdf`](Report_CV_25_26_HPE_Rossi_Santuari.pdf) · 🖥️ [Slide presentation](https://docs.google.com/presentation/d/1pU8Kgmj-zw3U1H4DiAGL8ceWuMZa5BOE2ZIvksFFy_Y/edit?usp=sharing)
 
 ## Repository Contents
 
