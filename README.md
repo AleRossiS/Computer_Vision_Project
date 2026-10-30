@@ -20,8 +20,8 @@ This repository contains tools, scripts, and notebooks for multi-camera human po
 - `camera_data_custom_for_BA/`: Contains `camera_calib.json` and `img_points.json` files storing camera parameters and court points used to perform BA.
 - `camera_data_after_BA/`: Folder containing the optimized camera parameters obtained after running Bundle Adjustment.
 - `tests/`: Utility Python scripts used during project development.
-- `literature_sources/`: Folder containing literature and reference papers used for the project.
-- `supplementary_reslults_material/`: Folder containing fotos, video and GIFs of the results.
+- `litterature_sources/`: Folder containing literature and reference papers used for the project.
+- `supplementary_results_material/`: Folder containing photos, videos and GIFs of the results.
 
 ## Prerequisites and Installation
 
@@ -67,8 +67,8 @@ In the image below are the reprojected 3D court points before and after Bundle A
 ### 3D skeleton of each player
 With the interactive widget, one can visualize the reconstructed 3D skeleton of each player in every frame.
 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/1e035d06-f4c4-4ece-b705-9e597e5b335f" width="80%" controls></video>
-</div>
+<p align="center">
+  <img src="supplementary_results_material/3D_single_skeleton.gif" width="70%" alt="3D skeleton of a single player">
+</p>
 
 
